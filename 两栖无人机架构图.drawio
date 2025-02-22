@@ -387,8 +387,8 @@
         <mxCell id="yC70z2PjgywdZNO4H_fo-22" value="可拓展六轴方案" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="466.57" y="756.57" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yC70z2PjgywdZNO4H_fo-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;rotation=-90;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="419.68" y="209.68" width="96.88" height="122.75" as="geometry" />
+        <mxCell id="yC70z2PjgywdZNO4H_fo-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;rotation=-90;dashed=1;dashPattern=8 8;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="419.84" y="214.84" width="96.88" height="112.43" as="geometry" />
         </mxCell>
         <mxCell id="yC70z2PjgywdZNO4H_fo-24" value="可拓展长波无线电方案" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="256.06" width="80" height="30" as="geometry" />
