@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="第 1 页" id="Aah7uJDy7NBjEhp5nTVD">
-    <mxGraphModel dx="799" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1165" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -381,17 +381,23 @@
             <mxPoint x="464" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yC70z2PjgywdZNO4H_fo-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;rotation=-90;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="419.69" y="633.82" width="183.76" height="122.75" as="geometry" />
+        <mxCell id="yC70z2PjgywdZNO4H_fo-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;rotation=-90;dashed=1;dashPattern=8 8;strokeColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="424.84" y="635.67" width="173.45" height="122.75" as="geometry" />
         </mxCell>
         <mxCell id="yC70z2PjgywdZNO4H_fo-22" value="可拓展六轴方案" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="466.57" y="756.57" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yC70z2PjgywdZNO4H_fo-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;rotation=-90;dashed=1;dashPattern=8 8;arcSize=5;" vertex="1" parent="1">
+        <mxCell id="yC70z2PjgywdZNO4H_fo-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;rotation=-90;dashed=1;dashPattern=8 8;arcSize=5;strokeColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="419.84" y="214.84" width="96.88" height="112.43" as="geometry" />
         </mxCell>
         <mxCell id="yC70z2PjgywdZNO4H_fo-24" value="可拓展长波无线电方案" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="256.06" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yC70z2PjgywdZNO4H_fo-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;rotation=-90;dashed=1;dashPattern=8 8;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="300" y="214.84" width="96.88" height="112.43" as="geometry" />
+        </mxCell>
+        <mxCell id="yC70z2PjgywdZNO4H_fo-27" value="光电复合缆" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="256.06" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
